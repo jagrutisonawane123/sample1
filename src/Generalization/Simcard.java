@@ -1,0 +1,11 @@
+package Generalization;
+
+public interface Simcard 
+{
+	
+	
+	void sms();
+	void audio_calling();
+	void data();
+
+}
